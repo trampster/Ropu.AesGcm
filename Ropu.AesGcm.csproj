@@ -8,8 +8,7 @@
         <Authors>Daniel Hughes</Authors>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
         <Description>
-            Ropu.AesGcm is a dotnet wrapper for AesGcm from OpenSSL, does not include OpenSSL lib
-            you will need to include it yourself.
+            Ropu.AesGcm is a dotnet wrapper for AesGcm from OpenSSL, does not include OpenSSL lib you will need to include it yourself.
         </Description>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
         <Copyright>Copyright (c) Daniel Hughes 2020</Copyright>
