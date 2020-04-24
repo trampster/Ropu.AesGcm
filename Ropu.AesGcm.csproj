@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.1</TargetFramework>
+        <Nullable>enable</Nullable>
+        <PackageId>Ropu.AesGcm</PackageId>
+        <Version>0.1.0</Version>
+        <Authors>Daniel Hughes</Authors>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Description>
+            Ropu.AesGcm is a dotnet wrapper for AesGcm from OpenSSL, does not include OpenSSL lib
+            you will need to include it yourself.
+        </Description>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <Copyright>Copyright (c) Daniel Hughes 2020</Copyright>
+        <Company>Ropu</Company>
+        <RepositoryUrl>https://github.com/trampster/Ropu.AesGcm</RepositoryUrl>
+    </PropertyGroup>
+
+</Project>
