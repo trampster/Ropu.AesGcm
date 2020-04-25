@@ -3,7 +3,7 @@ using System.Runtime.InteropServices;
 
 namespace Ropu.AesGcm
 {
-    public static class NativeMethods
+    static class NativeMethods
     {
         const string OpenSslLib = "ssl";
         public const int EVP_CTRL_AEAD_GET_TAG = 0x10;

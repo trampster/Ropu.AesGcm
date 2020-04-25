@@ -4,7 +4,7 @@
         <TargetFramework>netstandard2.1</TargetFramework>
         <Nullable>enable</Nullable>
         <PackageId>Ropu.AesGcm</PackageId>
-        <Version>0.1.0</Version>
+        <Version>0.2.0</Version>
         <Authors>Daniel Hughes</Authors>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
         <Description>
